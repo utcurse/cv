@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+
+h1 {
+  color: #ff2e63;
+  font-family: 'Special Elite', cursive;
+  font-size: 5.625rem;
+  line-height: 1;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #00b8a9;
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border-style: dotted solid;
+  border-width: 8px 0 0;
+  border-color: #dbe2ef;
+  margin: 100px auto;
+  width: 5%;
+}
+
+.top-container {
+  background-color: #eaeaea;
+  padding-top: 70px;
+  position: relative;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.bulb-img {
+  position: absolute;
+  top: 20px;
+  right: 300px;
+  width: 10%;
+}
+
+.brain-img {
+  position: absolute;
+  top: 220px;
+  left: 250px;
+  width: 10%;
+}
+
+.coder-img {
+  width: 32%;
+}
+
+.profile-img{
+  padding: 50px;
+}
+
+.profile-text{
+  margin: 20px auto;
+  width: 50%;
+}
+
+.food-img {
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.java-img {
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.bottom-container {
+  background-color: #08d9d6;
+  padding: 20px;
+}
+
+.copyright-content {
+  margin: 0;
+  color: #eaeaea;
+  padding-top: 20px;
+}
+
+.footer-link {
+  color: #ff2e63;
+  padding: 15px;
+}
+
+.button-contact-me {
+   background: #FF2E63;
+   background-image: -webkit-linear-gradient(top, #FF2E63, #FF2E63);
+   background-image: -moz-linear-gradient(top, #FF2E63, #FF2E63);
+   background-image: -ms-linear-gradient(top, #FF2E63, #FF2E63);
+   background-image: -o-linear-gradient(top, #FF2E63, #FF2E63);
+   background-image: -webkit-gradient(to bottom, #FF2E63, #FF2E63);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: 'Pacifico', cursive;
+   width: 100px;
+   height: 5px;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #EAEAEA;
+   border: solid #EAEAEA 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px auto;
+}
